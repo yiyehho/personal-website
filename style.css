@@ -1,0 +1,263 @@
+
+@font-face {
+  font-family: "Myriad Pro-Regular";
+  src:url("MyriadPro-Regular.otf");
+}
+@font-face {
+  font-family: "Myriad Pro-Bold";
+  src:url("MyriadPro-Bold.otf");
+}
+
+@font-face {
+  font-family: "Futura-T-OT-Book";
+  src:url("Futura-T-OT-Book_19064.ttf");
+}
+
+@font-face {
+  font-family: "GlacialIndifference-Bold";
+  src:url("GlacialIndifference-Bold.otf")
+}
+.headline_background{
+  background-color: #333333;
+}
+.headline {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.this_is {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /*padding-left: 300px;*/
+  text-align: left;
+  font-size: 40px;
+  color: white;
+  line-height: 100px;
+  font-family: "Futura-T-OT-Book";
+
+}
+
+.my_name {
+  font-size: 170px;
+  font-family: "Futura-T-OT-Book";
+  color: white;
+  text-align: center;
+}
+
+
+
+.photo-background {
+  width: auto;
+  height: 690px;
+  background-color: #ED1C24;
+}
+
+.sm_logo {
+    border: black;
+    border-style: double;
+    margin: 0 auto;
+    width: 7%;
+}
+
+
+
+.my_picture {
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+}
+
+.sm {
+  width: 40px;
+  height: 40px;
+  padding-right: 4px;
+}
+
+.aboutme {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraph1 {
+  text-align: center;
+  font-size: 16px;
+  font-family: "Myriad Pro-Regular";
+  color: white;
+  text-align: justify;
+}
+
+.about_angel {
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Myriad Pro-Regular";
+  font-size: 25px;
+  color: #666666;
+}
+
+.middle_head_line {
+  background-color: #ED1C24;
+  display: block;
+  width: 300px;
+  height: 10px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  font-size: 18px;
+  color: white;
+  font-family: "Myriad Pro-Regular";
+}
+
+
+.middle {
+  background-color: #FCFCFC;
+  display: block;
+  width: 250px;
+  height: 240px;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 60px;
+  padding-right: 10px;
+  padding-top: 20px;
+  color: #4D4D4D;
+  font-family: "Myriad Pro-Regular";
+  line-height: 35px;
+  border: 1px solid #e6e6e6;
+}
+
+
+.head_line_left {
+  background-color: #ED1C24;
+  font-family: "Myriad Pro-Regular";
+  color: white;
+  display: block;
+  width: 300px;
+  height: 10px;
+  margin-left: 12%;
+  margin-top: -332px;
+  padding-left: 10px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  text-align: left;
+  font-size: 18px;
+}
+
+.left {
+  background-color: #FCFCFC;
+  display: block;
+  width: 220px;
+  height: 240px;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-left: 12%;
+  padding-left: 90px;
+  padding-right: 0px;
+  padding-top: 20px;
+  color: #4D4D4D;
+  font-family: "Myriad Pro-Regular";
+  line-height: 35px;
+  border: 1px solid #e6e6e6;
+
+}
+
+
+.head_line_right {
+  background-color: #ED1C24;
+  font-family: "Myriad Pro-Regular";
+  color: white;
+  display: block;
+  width: 300px;
+  height: 10px;
+  margin-left: 66%;
+  margin-top: -332px;
+  padding-left: 10px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  text-align: left;
+  font-size: 18px;
+}
+
+.right {
+  background-color: #FCFCFC;
+  display: block;
+  width: 260px;
+  height: 240px;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-left: 66%;
+  padding-left: 50px;
+  padding-top: 20px;
+  color: #4D4D4D;
+  font-family: "Myriad Pro-Regular";
+  line-height: 35px;
+  border: 1px solid #e6e6e6;
+}
+
+.secondparagraph {
+  width: auto;
+  height: 700px;
+  background-color: #FCFCFC;
+  margin-top: 50px;
+  padding-top: 50px;
+  text-align: center;
+  font-family: "Myriad Pro-Regular";
+  font-size: 25px;
+  color: #666666;
+}
+
+.paragraph2 {
+  text-align: center;
+  font-size: 16px;
+  color: #666666;
+  font-family: "Myriad Pro-Regular";
+  margin-bottom: 40px
+}
+
+.gallery {
+  margin-bottom: 20px;
+}
+
+div.img {
+  margin: 25px;
+  float: left;
+  width: 300px;
+  height: 200px;
+  margin-bottom: 15px;
+}
+
+div.img:hover {
+    border: 10px solid #777;
+}
+
+.img img{
+  width: 100%;
+  height: 100%;
+}
+
+.footer {
+  background-color: #333333;
+  width: auto;
+  height: 40px;
+  margin-top: 0px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 12px;
+  color: white;
+  padding-top: 30px;
+}
+
+
+/*page 2 styles*/
